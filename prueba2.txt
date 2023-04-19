@@ -1,0 +1,2 @@
+print('Debo tener errores de sintaxis')
+print("recuerda repasar y hacer ejercicios de python")
